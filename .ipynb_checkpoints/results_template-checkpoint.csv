@@ -1,7 +1,0 @@
-Experiment,Truck capacity ₹L,Max visits,P(low),P(normal),P(high),Status
-Base case,25,10,0.2,0.5,0.3,Run Gurobi
-Truck capacity sensitivity,20,10,0.2,0.5,0.3,Run Gurobi
-Truck capacity sensitivity,30,10,0.2,0.5,0.3,Run Gurobi
-Visit-limit sensitivity,25,8,0.2,0.5,0.3,Run Gurobi
-Visit-limit sensitivity,25,12,0.2,0.5,0.3,Run Gurobi
-High-demand sensitivity,25,10,0.1,0.4,0.5,Run Gurobi
